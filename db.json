@@ -1,18 +1,23 @@
 {
-"code":0,
-"message":"Success",
-"error":null,
-"result": {
-[{"name":"n1",
-"id":100,
-"prop":{
-"colour":"blue",
-"pet":"dog"}},
-{"name":"n2",
-"id":101,
-"prop":{
-"colour":"pink",
-"pet":"cat"
-}}]
-}
+	"code": 0,
+	"message": "Success",
+	"error": null,
+	"result": [{
+			"name": "n1",
+			"id": 100,
+			"prop": {
+				"colour": "blue",
+				"pet": "dog"
+			}
+		},
+		{
+			"name": "n2",
+			"id": 101,
+			"prop": {
+				"colour": "pink",
+				"pet": "cat"
+			}
+		}
+	]
+
 }
